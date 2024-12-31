@@ -1,0 +1,5 @@
+{
+    "device_serial_table": "path_to_csv_file.csv",
+    "config_file": "path_to_config_file.ini"
+
+}
